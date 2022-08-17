@@ -7,4 +7,4 @@ Starting project can be found at: https://github.com/drhinote/TDD_Excersizes.git
 Status of All Tests: ** Completed.**
 
 ## Run Code: 
-**Must run program in Eclipse.**
+** Must run program in IDE (Eclipse) to view Tests. **
