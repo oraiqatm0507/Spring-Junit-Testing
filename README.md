@@ -1,6 +1,10 @@
 # Homework 6: Spring-Junit-Testing
 
-HWW #6 TDD exersizes:  Update the code base so that all Junit tests pass. 
+HWW #6 TDD exersizes: Update the follwoing code base so that all Junit tests pass. 
+Starting project can be found at: https://github.com/drhinote/TDD_Excersizes.git 
 
 
-All tests pass.
+Status of All Tests: ** Completed.**
+
+## Run Code: 
+**Must view test completion within Eclipse.**
