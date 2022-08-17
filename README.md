@@ -4,7 +4,7 @@ HWW #6 TDD exersizes: Update the follwoing code base so that all Junit tests pas
 Starting project can be found at: https://github.com/drhinote/TDD_Excersizes.git 
 
 
-Status of All Tests: ** Completed.**
+Status of All Tests: **Completed.**
 
 ## Run Code: 
-** Must run program in IDE (Eclipse) to view Tests. **
+**Must run program in IDE (Eclipse) to view Tests.**
